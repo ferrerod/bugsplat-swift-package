@@ -10,5 +10,5 @@ This repository contains the necessasry structure and Package.swift to allow Bug
 # FIXME
 
 In the Package.swift, the url for BugSplat binaryTarget is currently set to:
-url: "https://github.com/ferrerod/bugsplat-swift-package/Releases/BugSplat.xcframework.1.0.0.zip"
+url: "https://zion.com/bugsplat/releases/BugSplat.xcframework.1.0.0.zip"
 It should be hosted in a suitable location where versioned releases are managed.
